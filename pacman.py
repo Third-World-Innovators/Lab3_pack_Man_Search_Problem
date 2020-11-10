@@ -51,7 +51,7 @@ import sys, types, time, random, os
 
 ###################################################
 # YOUR INTERFACE TO THE PACMAN WORLD: A GameState #
-#Created By: Kaelo Medupe
+#Created By: Kaelo Medupe And Larona Nnang
 ###################################################
 
 class GameState:
